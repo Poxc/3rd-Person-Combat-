@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 5f3ac99f19e1ff0468fb406d23a74d3d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sensitivitySlider: {instanceID: 0}
+  - settingsData: {fileID: 11400000, guid: 6f4541168c940ec40b692dd38c0da800, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
